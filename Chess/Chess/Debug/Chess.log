@@ -1,0 +1,25 @@
+﻿  application.cpp
+  bishop.cpp
+  board.cpp
+  camera.cpp
+  game.cpp
+  king.cpp
+  knight.cpp
+  light.cpp
+  main.cpp
+  pawn.cpp
+  piece.cpp
+  player.cpp
+d:\dragos\proiect\chess\chess\src\player.cpp(66): warning C4018: '<': signed/unsigned mismatch
+d:\dragos\proiect\chess\chess\src\player.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  program.cpp
+  queen.cpp
+  rook.cpp
+  scene.cpp
+  shader.cpp
+  stb_image.cpp
+  tga.cpp
+  vao.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Chess.vcxproj -> D:\Dragos\Proiect\Chess\Debug\Chess.exe
